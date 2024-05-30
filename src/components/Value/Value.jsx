@@ -30,7 +30,6 @@ const Value = () => {
 
           <span className="secondaryText">
             We're always ready to help by providing the best services for you because
-            <br />
             we believe a good place to live can make your life better.
           </span>
 
