@@ -2,7 +2,6 @@ import "./Hero.css";
 import CountUp from "react-countup";
 import { motion } from "framer-motion";
 import { NavLink } from 'react-router-dom';
-import SearchBar from "../SearchBar/SearchBar";
 
 const Hero = () => {
   return (
