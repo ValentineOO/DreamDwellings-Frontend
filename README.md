@@ -5,8 +5,30 @@
 
 Dream Dwellings is a comprehensive real estate marketplace designed to simplify property exploration and custom viewing experiences.
 
+## Table of Contents
+
+- [Description](#description)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+  - [Frontend](#frontend)
+  - [Backend](#backend)
+  - [Database](#database)
+  - [Development Tools](#development-tools)
+- [DevOps](#devops)
+- [Additional Tools](#additional-tools)
+- [Deployment](#deployment)
+- [Installation and Setup](#installation-and-setup)
+  - [Prerequisites](#prerequisites)
+  - [Backend Setup](#backend-setup)
+  - [Frontend Setup](#frontend-setup)
+  - [Running with Docker (Optional)](#running-with-docker-optional)
+- [Accessing the Application](#accessing-the-application)
+- [Contribution](#contribution)
+- [License](#license)
+- [Contact](#contact)
+
 ## Description
-This project solves the problem of efficiently connecting property buyers and sellers in the real estate market. It provides a platform where users can view properties, like them, make bookings for visits, and add their own properties for potential buyers.
+This project solves the problem of efficiently connecting property buyers and sellers in the real estate market. It provides a platform where users can view properties, like them, make bookings for visits, and add their properties for potential buyers.
 - Target Audience: Homebuyers, real estate investors, and property owners looking to sell.
 - Why It Was Built: To simplify the process of exploring, booking, and listing properties for both buyers and sellers, making real estate transactions more accessible and streamlined.
 
